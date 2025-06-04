@@ -19,10 +19,10 @@
 
 ## 📊 GitHub Stats
 
-[![熊志强's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzq1068&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/YOUR_USERNAME)
-[![熊志强's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzq1068&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/YOUR_USERNAME)
+[![熊志强's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzq1068&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xzq1068)
+[![熊志强's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzq1068&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/xzq1068)
 
 ## 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzq1068&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzq1068layout=compact&theme=default#gh-light-mode-only)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzq1068&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/xzq1068)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzq1068layout=compact&theme=default#gh-light-mode-only)](https://github.com/xzq1068)
