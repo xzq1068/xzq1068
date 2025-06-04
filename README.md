@@ -15,7 +15,7 @@
 ## 🛠️ Skills & Tools
 
 <div>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge>
 
 ## 📊 GitHub Stats
 
