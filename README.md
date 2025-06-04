@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm [熊志强]
 
-<!--
-**xzq1068/xzq1068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://user-images.githubusercontent.com/your-user-id/banner-image.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Awesome Project**
+- 🌱 I’m learning **JRaft**, **Distributed Systems**, and **Spring Boot**
+- 👯 I’m looking to collaborate on open source projects related to **Java** and **Distributed Systems**
+- 💬 Ask me about **Java**, **Microservices**, **Raft consensus**
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: I love coding while listening to Lo-Fi music
+
+---
+
+## 🛠️ Skills & Tools
+
+<div>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge
