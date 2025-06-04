@@ -1,16 +1,13 @@
-# Hi there 👋, I'm [熊志强]
-
-![Profile Banner](https://user-images.githubusercontent.com/your-user-id/banner-image.png)
-
+# Hi there 👋
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Awesome Project**
+- 🔭 I’m 熊志强
 - 🌱 I’m learning **JRaft**, **Distributed Systems**, and **Spring Boot**
 - 👯 I’m looking to collaborate on open source projects related to **Java** and **Distributed Systems**
 - 💬 Ask me about **Java**, **Microservices**, **Raft consensus**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [xzq17630061068@gmail.com](mailto:xzq17630061068@gmail.com)
 - ⚡ Fun fact: I love coding while listening to Lo-Fi music
 
 ---
